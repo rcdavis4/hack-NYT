@@ -2,7 +2,7 @@ body {
   background-color: #fff;
   font-family: sans-serif;
   font-size: 1em;
-  background: url(sun-rays.svg) no-repeat;
+  background: url(../img/sun-rays.svg) no-repeat;
   background-size: cover;
 }
 
